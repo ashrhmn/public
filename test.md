@@ -7,7 +7,7 @@ description: This is my vote management system
 
 ## A project for the final term exam of the course OOP2 in AIUB
 
-### Visual Studio 2019 Project
+### Visual Studio 2022 Project
 
 #### MSSQL in backend
 
