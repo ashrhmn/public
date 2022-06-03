@@ -1,8 +1,8 @@
 {
-    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "description": "My Collection",
     "external_url": "https://openseacreatures.io/3",
     "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
-    "name": "Dave Starbelly",
+    "name": "Ashik Starbelly",
     "attributes": [{
             "trait_type": "Base",
             "value": "Starfish"
